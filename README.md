@@ -45,4 +45,3 @@
 <img src="https://raw.githubusercontent.com/Ezequias-Sousa/Ezequias-Sousa/output/snake.svg" alt="Snake animation" />
 
 ###
-
