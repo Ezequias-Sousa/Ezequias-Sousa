@@ -12,15 +12,31 @@
 
   <br>
   <p align="center">
-   <strong>📊 Analista de Dados | Foco em Logística, Inventário e Prevenção de Perdas</strong>
+   <strong>📊 Data Analyst with a Strong Background in Logistics, Inventory Control, and Loss Prevention</strong>
   </p>
 
   ---
 
-  ### 🙋‍♂️ Sobre Mim
+  ### 👨🏼‍💻 Sobre Mim
+<p>
 
+ * Movido(a) pela curiosidade, guiado(a) pelos dados.
+  
+</p>
   <p>
-    Sou Analista de Dados atuando na área logística de uma grande rede de farmácias. Tenho experiência em automações com Python, análise de vendas e perdas, além de criar dashboards no Power BI para facilitar a tomada de decisões. Estou sempre estudando e aplicando novos conhecimentos para gerar insights de valor com os dados.
+   ☑️ Some of My Key Responsibilities:
+    
+ * Redesign, implementation, and monitoring of KPIs.
+
+ * Automation of processes and ETL routines with a focus on improving efficiency and reducing manual tasks.
+
+ * Creation of queries and views using SQL / AWS Athena based on team needs.
+
+ * Data insertion and maintenance integrated with AWS S3.
+
+ * Sales and order forecasting to guide Logistics Centers on increasing production staff.
+
+ * Support to the logistics team in decision-making through data-driven analyses and insights.
   </p>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ezequiassousa&style=flat-square&color=blueviolet" alt="Profile views"/>
@@ -35,7 +51,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -54,6 +70,6 @@
     <img src="https://github-readme-streak-stats.vercel.app/?user=ezequiassousa&theme=tokyonight" />
   </div>
 
-</td>
+</td>      
 </tr>
 </table>
