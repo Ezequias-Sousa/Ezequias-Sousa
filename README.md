@@ -1,20 +1,6 @@
 <table>
-<tr>
-<td width="30%" valign="top" align="center">
 
-  <br>
-  
-  <a href="https://github.com/Ezequias-Sousa">
-    <img src="URL_DA_SUA_FOTO_AQUI" width="200px" height="200px" alt="Foto de Ezequias Sousa" style="border-radius:50%;"/>
-  </a>
-  
- ---
-  <div align="left">
-    <a href="https://www.linkedin.com/in/seulinkedin">💼 LinkedIn</a> •
-    <a href="https://github.com/ezequiassousa">👨‍💻 GitHub</a> 
-    
-  </div>
-  
+
 </td>
 <td width="70%" valign="top">
 
