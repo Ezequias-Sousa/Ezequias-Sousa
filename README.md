@@ -18,9 +18,19 @@
   ---
 
   ### 👨🏼‍💻 Sobre Mim
-<p>
+<p align="center">
 
- * Movido(a) pela curiosidade, guiado(a) pelos dados.
+ <p>
+*Driven by curiosity, guided by data.*
+</p>
+<p>
+Hi, welcome to my portfolio — you can call me Eze (short for Ezequias).  
+Over the past two years in the data analytics world, I’ve developed a motto:  
+I believe every strategic decision must be data-driven. My role is to transform raw data into actionable insights that illuminate the path to effective decision-making.
+</p>
+
+
+ </p>
   
 </p>
   <p>
