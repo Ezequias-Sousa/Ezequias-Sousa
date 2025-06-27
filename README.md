@@ -26,7 +26,7 @@
 <p>
 Hi, welcome to my portfolio — you can call me Eze (short for Ezequias).  
 Over the past two years in the data analytics world, I’ve developed a motto:  
-I believe every strategic decision must be data-driven. My role is to transform raw data into actionable insights that illuminate the path to effective decision-making.
+
 </p>
 
 
@@ -47,6 +47,8 @@ I believe every strategic decision must be data-driven. My role is to transform 
  * Sales and order forecasting to guide Logistics Centers on increasing production staff.
 
  * Support to the logistics team in decision-making through data-driven analyses and insights.
+  
+  I believe every strategic decision must be data-driven. My role is to transform raw data into actionable insights that illuminate the path to effective decision-making.
   </p>
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ezequiassousa&style=flat-square&color=blueviolet" alt="Profile views"/>
@@ -66,6 +68,7 @@ I believe every strategic decision must be data-driven. My role is to transform 
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=AWS&logoColor=blueviolet"/>
   </p>
 
   ---
