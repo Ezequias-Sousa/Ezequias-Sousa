@@ -32,8 +32,6 @@ Over the past two years in the data analytics world, I’ve developed a motto:
 
 </ul>
 
-I believe every strategic decision must be data-driven.  
-My role is to transform raw data into actionable insights that illuminate the path to effective decision-making.
 </p>
 
 <div align="center">
