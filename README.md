@@ -55,10 +55,3 @@ Over the past two years in the data analytics world, I’ve developed a motto:
 </p>
 
 ---
-
-<!-- GitHub Stats -->
-<h3 align="center">📈 My GitHub Stats</h3>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezequias-sousa&show_icons=true&include_all_commits=true&count_private=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117"/>
-</div>
