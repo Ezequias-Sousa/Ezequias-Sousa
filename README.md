@@ -1,6 +1,6 @@
 <!-- Banner e Cabeçalho -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ezequias-Sousa/Ezequias-Sousa/main/New_logo.png" alt="Banner Ezequias Sousa" style="max-width: 100%; border-radius: 12px;" />
+  <img src="https://github.com/user-attachments/assets/8bf388d6-79b9-4fb6-8ff9-294aab210310" alt="Banner Ezequias Sousa" style="max-width: 100%; border-radius: 12px;" />
   <br><br>
   <strong>📊 Data Analyst with a Strong Background in Logistics, Inventory Control, and Loss Prevention</strong>
 </div>
